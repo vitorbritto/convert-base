@@ -26,7 +26,7 @@ convertBase('111', 2, 16);
 
 ## Includes
 
-- [Mocha](http://visionmedia.github.io/mocha/)
+- [Mocha](http://mochajs.org/)
 - [Chai](http://chaijs.com/)
 
 
